@@ -1,0 +1,18 @@
+1St install git
+go to folder where ur project files are there in that url type cmd
+
+in cmd enter git init
+
+after this .git is created but it is not visible to us
+
+to check files in our project folder enter git status
+
+to add  files from untracked files to stageing area git add file name 
+
+ex: git add Git imp.txt
+
+ When you have a space in a file or folder name, you need to enclose the entire path or name in double quotes. 
+ ex: git add "Git imp.txt"
+
+
+
